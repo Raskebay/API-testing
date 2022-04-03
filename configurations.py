@@ -1,0 +1,1 @@
+SERVICE_URL = 'https://breakingbadapi.com/api/quotes'
